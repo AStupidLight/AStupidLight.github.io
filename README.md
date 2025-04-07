@@ -1,1 +1,1 @@
-https://sergiokopplin.github.io/indigo/blog/
+https://astupidlight.github.io/
